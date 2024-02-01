@@ -1,5 +1,5 @@
 # Flavour-Codsoft
-
+Associated with UI/UX Codsoft Internship.
 ## Aim
 To create a restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use.
 
